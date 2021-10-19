@@ -71,8 +71,11 @@ Project is: _in progress_
 
 To do:
 
-- Feature to be added 1
-- Feature to be added 2
+- Setting up project
+- Create a basic smart contract, deploy and test
+- Create Product
+- Purchase Product
+- Build FrontEnd
 
 <!--
 ## Acknowledgements
@@ -80,7 +83,7 @@ To do:
 Give credit here.
 
 - This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://www .youtube.com/watch?v=VH9Q2lf2mNo).
 - Many thanks to... -->
 
 ## Contact
