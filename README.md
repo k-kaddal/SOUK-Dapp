@@ -34,6 +34,7 @@ You don't have to answer all the questions - just the ones relevant to your proj
 - Solidity
 - Etherum
 - React
+- Ganache
 
 <!-- ## Features
 
