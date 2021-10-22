@@ -1,6 +1,6 @@
 # SOUK PROJECT
 
-> This is a dApp marketplace project.
+> This is a decentralized App marketplace project, using the Ethereum blockchain.
 
 <!-- > Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
 
@@ -14,9 +14,9 @@
   <!-- - [Setup](#setup) -->
   <!-- - [Usage](#usage) -->
 - [Project Status](#project-status)
-  <!-- - [Room for Improvement](#room-for-improvement) -->
+  - [Room for Improvement](#room-for-improvement)
   <!-- - [Acknowledgements](#acknowledgements) -->
-  <!-- - [Contact](#contact) -->
+  - [Contact](#contact)
   <!-- * [License](#license) -->
 
 <!--
@@ -32,8 +32,9 @@ You don't have to answer all the questions - just the ones relevant to your proj
 
 - Web3.js
 - Solidity
-- Etherum
 - React
+- Mocha testing framework
+- Chai assertion library
 - Ganache
 
 <!-- ## Features
@@ -71,11 +72,18 @@ Project is: _in progress_
 
 To do:
 
-- Setting up project
-- Create a basic smart contract, deploy and test
-- Create Product
-- Purchase Product
-- Build FrontEnd
+- Setting up project (done)
+- Create a basic smart contract (done)
+- Sell Product (done)
+- Purchase Product (done)
+- Sell Product FrontEnd (done)
+- Buy Product FrontEnd (done)
+- Deploy project
+
+Issues:
+
+- web3 issues, when converting toBigNumber when buying a product (front-end) 
+
 
 <!--
 ## Acknowledgements
@@ -88,7 +96,7 @@ Give credit here.
 
 ## Contact
 
-Created by [@K-kaddal] - feel free to contact me!
+khaledkaddal@gmail.com
 
 <!-- Optional -->
 <!-- ## License -->
