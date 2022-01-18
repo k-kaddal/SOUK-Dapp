@@ -48,8 +48,3 @@ Issues:
 
 - web3 issues, when converting toBigNumber when buying a product (front-end) 
 
-## Contact
-
-Created by [@k-kaddal]- feel free to contact me!
-khaledkaddal@gmail.com
-
